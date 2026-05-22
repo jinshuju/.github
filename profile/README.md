@@ -1,5 +1,21 @@
-# 金数据
+# Jinshuju Developers
 
-## This is https://jinshuju.net
+Build with Jinshuju: APIs, webhooks, MCP, and tools for form-powered workflows.
 
-金数据是人人可用的在线表单工具，帮助用户收集和管理日常工作中的数据，提升工作效率。任何行业和岗位的人员，无需特殊技能，都可以方便的创建出符合业务需求的表单。
+Use Jinshuju developer resources to connect form data with business systems, internal workflows, automation tools, and AI agents.
+
+## 选择接入方式
+
+| 你想做什么 | 推荐入口 |
+|---|---|
+| 查看开放平台文档，了解 API、Webhook、MCP、URL 传参和表单嵌入 | [open-doc](https://github.com/jinshuju/open-doc) |
+| 自动化测试微信小程序 | [agent-miniprogram](https://github.com/jinshuju/agent-miniprogram) |
+| 让 AI Agent 通过自然语言操作金数据表单和数据 | [jinshuju-skill](https://github.com/jinshuju/jinshuju-skill) |
+| 使用高级 API / SDK 文档 | [jinshuju-api-docs](https://github.com/jinshuju/jinshuju-api-docs) |
+| 阅读金数据技术团队文章 | [tech-blog](https://github.com/jinshuju/tech-blog) |
+
+## 官方资源
+
+- 开放平台文档：[open.jinshuju.net](https://open.jinshuju.net)
+- 金数据官网：[jinshuju.net](https://jinshuju.net)
+- 技术支持：[support@jinshuju.net](mailto:support@jinshuju.net)
